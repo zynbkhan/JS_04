@@ -1,0 +1,53 @@
+body{
+   background-color:black;
+    height: 100%;
+    width: 100px;
+}
+.java{
+    font-size: 80px;
+    color: aqua;
+    margin-left: 500px;
+    text-shadow: 10px 10px 8px aqua;
+}
+.main{
+    justify-content: center;
+    height: 230px;
+    width: 300px;
+    background-color:aqua;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head{
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 18px;
+}
+.list{
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+.first{
+    font-size: larger;
+    text-decoration: none;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+.second{
+    font-size: larger;
+    text-decoration: none;
+}
